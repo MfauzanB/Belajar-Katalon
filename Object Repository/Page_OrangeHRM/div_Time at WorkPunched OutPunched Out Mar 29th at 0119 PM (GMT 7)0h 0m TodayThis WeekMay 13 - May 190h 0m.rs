@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Time at WorkPunched OutPunched Out Mar 29th at 0119 PM (GMT 7)0h 0m TodayThis WeekMay 13 - May 190h 0m</name>
+   <tag></tag>
+   <elementGuidId>7ded8baf-e57d-4b36-9514-707641f83877</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-grid-item.oxd-grid-item--gutters.orangehrm-dashboard-widget</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a1af51b-8e76-409c-83a3-4edd55efb203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget</value>
+      <webElementGuid>b029ce3d-168e-4d1a-93fa-80f78ba0ad0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time at WorkPunched OutPunched Out: Mar 29th at 01:19 PM (GMT 7)0h 0m TodayThis WeekMay 13 - May 190h 0m </value>
+      <webElementGuid>7160f0e0-8d8a-49b9-9732-e0aef8eb834d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]</value>
+      <webElementGuid>7c60fa3e-7d09-4940-bd7f-5ba9199338a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>2dd1b9c9-9a4f-4bb3-b409-2bef98b4b799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>b43b1b3e-16f3-4c5a-8ced-21ac1c29ff87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Time at WorkPunched OutPunched Out: Mar 29th at 01:19 PM (GMT 7)0h 0m TodayThis WeekMay 13 - May 190h 0m ' or . = 'Time at WorkPunched OutPunched Out: Mar 29th at 01:19 PM (GMT 7)0h 0m TodayThis WeekMay 13 - May 190h 0m ')]</value>
+      <webElementGuid>3453e4c9-b946-492b-b34f-becdac538f27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Variable Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5ff5b9a-230e-421a-90ca-8bbba9ef7f6b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>105c7805-a562-41b2-93a1-90d304daeb09</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hai'</defaultValue>
+      <description></description>
+      <id>105c7805-a562-41b2-93a1-90d304daeb09</id>
+      <masked>false</masked>
+      <name>hai_hai</name>
+   </variable>
+</TestCaseEntity>
